@@ -10,8 +10,8 @@ A complete web-based Gym Membership System built using **PHP, MySQL, HTML, and C
 ## 📸 Demo Preview
 
 > Add screenshots here (optional)
-- ![Dashboard Screenshot](assets/dashboard.png)
-- ![Member Panel](assets/member.png)
+- ![Dashboard Screenshot](assets/dashboard.jpg)
+- ![Member Panel](assets/member.jpg)
 
 ---
 
